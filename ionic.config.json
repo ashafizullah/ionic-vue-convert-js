@@ -1,0 +1,7 @@
+{
+  "name": "pd_app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
